@@ -1,0 +1,523 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hello World Imba",
+          "description": "Official Imba \"Hello World\" example. Also you can use it as GitHub template.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T22:05:01Z",
+            "owner": "imba",
+            "repo": "webpack-app-imba",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Start Imba",
+          "description": "Tool to bootstrap an Imba protect that was inspired by Create React App and Vue CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-15T20:07:58Z",
+            "owner": "athif23",
+            "repo": "start-imba",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imba Router",
+          "description": "Experimental router for Imba.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T15:37:27Z",
+            "owner": "somebee",
+            "repo": "imba-router",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Imba",
+          "description": "Material Design components written in Imba.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-26T13:49:53Z",
+            "owner": "nathanjohnson320",
+            "repo": "material-imba",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imba Shell",
+          "description": "Interactive debugger and REPL for Imba.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2025-04-20T14:43:21Z",
+            "owner": "donaldp",
+            "repo": "imba-shell",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UXA",
+          "description": "Experimental framework for Imba.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:19:43Z",
+            "owner": "somebee",
+            "repo": "uxa",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imba Inertia Adapter",
+          "description": "Imba Inertia adapter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-30T09:30:10Z",
+            "owner": "haikyuu",
+            "repo": "imba-inertia-adapter",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parcel Plugin Imba",
+          "description": "Parcel Bundler plugin to enable processing of Imba files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-01T20:37:33Z",
+            "owner": "imba",
+            "repo": "parcel-plugin-imba",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Toolkits and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sublime Text",
+          "description": "Imba plugin for Sublime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-03T11:59:23Z",
+            "owner": "somebee",
+            "repo": "sublime-imba",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode",
+          "description": "Imba plugin for VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-03T08:36:25Z",
+            "owner": "somebee",
+            "repo": "vscode-imba",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": "Imba plugin for Atom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-19T17:01:22Z",
+            "owner": "somebee",
+            "repo": "language-imba",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Editor Plugins and IDEs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Built with Imba"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "html2imba",
+          "description": "view online - A tool to convert HTML to Imba tag source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-02T23:52:59Z",
+            "owner": "konsumer",
+            "repo": "html2imba",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegExp Explorer",
+          "description": "view online - Regex tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:35:08Z",
+            "owner": "taw",
+            "repo": "imba-regexp-explorer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON pretty printer",
+          "description": "view online - JSON prettier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T10:18:33Z",
+            "owner": "taw",
+            "repo": "imba-json-beautifier",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monoalphabetic Cipher Decoder",
+          "description": "view online - Decoder for monoalphabetic cipher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:44Z",
+            "owner": "taw",
+            "repo": "imba-monoalphabetic",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Imba Todo MVC",
+          "description": "Imba TodoMVC Example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-30T14:30:34Z",
+            "owner": "somebee",
+            "repo": "todomvc-imba",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ping CRM",
+          "description": "CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2023-04-13T10:37:28Z",
+            "owner": "haikyuu",
+            "repo": "perfect-stack",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imba Realworld App",
+          "description": "view online - Project was created to demonstrate a fully fledged fullstack application that adheres to the RealWorld spec and API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2024-07-06T21:43:11Z",
+            "owner": "cartonalexandre",
+            "repo": "imba-realworld-example-app",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imba HackerNews Clone",
+          "description": "Demonstration of Imba & Capacitor used to build Hacker News clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T20:59:21Z",
+            "owner": "SamirHodzic",
+            "repo": "imba-capacitor-hn",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048 Game",
+          "description": "view online - 2048 Game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:33:09Z",
+            "owner": "taw",
+            "repo": "imba-2048",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game of Life",
+          "description": "view online - Game of life.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:58Z",
+            "owner": "taw",
+            "repo": "imba-game-of-life",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Top Down Shooter",
+          "description": "view online - 2D zombie shooter game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-07-11T01:00:11Z",
+            "owner": "CassianoSF",
+            "repo": "imba-top-down-shooter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eyes",
+          "description": "view online - A cool interaction website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T14:56:28Z",
+            "owner": "taw",
+            "repo": "imba-eyes",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fifteen Puzzle",
+          "description": "view online - Fifteen puzzle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:48Z",
+            "owner": "taw",
+            "repo": "imba-fifteen",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix Rain",
+          "description": "view online - Cool matrix-like rain animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:02Z",
+            "owner": "taw",
+            "repo": "imba-matrix-rain",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snake Game",
+          "description": "view online - Snake game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:33:59Z",
+            "owner": "taw",
+            "repo": "imba-snake",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather App",
+          "description": "view online - Weather app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-02-11T19:35:45Z",
+            "owner": "taw",
+            "repo": "imba-weather",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Todo",
+          "description": "view online - More basic todo list app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:35:02Z",
+            "owner": "taw",
+            "repo": "imba-todo-list",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emoji Memory Game",
+          "description": "view online - Memory game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:33:12Z",
+            "owner": "taw",
+            "repo": "imba-emoji-memory",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Todo MVC",
+          "description": "view online - TodoMVC implementation following tastejs/todomvc rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-08-07T17:58:49Z",
+            "owner": "shapkarin",
+            "repo": "imba-todo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": "view online - Calculator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:53Z",
+            "owner": "taw",
+            "repo": "imba-calculator",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quote Machine",
+          "description": "view online - App that generates random quotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Imba",
+            "last_commit": "2026-01-22T13:34:49Z",
+            "owner": "taw",
+            "repo": "imba-quote-machine",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROT-N",
+          "description": "view online - ROT-N app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T10:18:30Z",
+            "owner": "taw",
+            "repo": "imba-rotn",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps/Websites"
+    },
+    {
+      "description": "Your contributions and suggestions are welcome anytime. Are you building great stuff with Imba? Feel free to share with us! :blush:\nHere are instructions. Please read the Code of Conduct as well.",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "Thanks goes to these wonderful people (emoji key):\nThis project follows the all-contributors specification. Contributions of any kind welcome!",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "See LICENSE.md",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:54.227Z",
+    "original_repository": "koolamusic/awesome-imba",
+    "original_repository_sha": "21b9372a44255dc5cb4b9aa4cec53ed521dc83b4",
+    "enhanced_repository": "enhansome/enhansome-imba",
+    "enhanced_repository_description": null,
+    "title": "Awesome Imba with stars"
+  }
+}
