@@ -32,7 +32,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 * [Website](https://imba.io)
 * [Docs](https://imba.io/docs)
 * [Gitter](https://gitter.im/somebee/imba)
-* [GitHub Repo](https://github.com/imba/imba) ⭐ 6,505 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-12
+* [GitHub Repo](https://github.com/imba/imba) ⭐ 6,506 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-13
 * [GitHub Organization](https://github.com/imba)
 
 #### Toolkits and Frameworks
@@ -87,7 +87,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 
 * [Imba Todo MVC](https://github.com/somebee/todomvc-imba) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-30 -  Imba TodoMVC Example.
 * [Ping CRM](https://github.com/haikyuu/perfect-stack) ⭐ 22 | 🐛 2 | 🌐 Imba | 📅 2023-04-13 - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
-* [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Imba | 📅 2024-07-06 - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,080 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-12 spec and API.
+* [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Imba | 📅 2024-07-06 - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,080 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
 * [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2022-02-12 - Demonstration of Imba & Capacitor used to build Hacker News clone.
 * [2048 Game](https://github.com/taw/imba-2048) ⭐ 7 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-2048) - 2048 Game.
 * [Game of Life](https://github.com/taw/imba-game-of-life) ⭐ 7 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-game-of-life) - Game of life.
@@ -99,7 +99,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 * [Weather App](https://github.com/taw/imba-weather) ⭐ 3 | 🐛 0 | 🌐 Imba | 📅 2026-02-11 - [view online](https://taw.github.io/imba-weather) - Weather app.
 * [Simple Todo](https://github.com/taw/imba-todo-list) ⭐ 2 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-todo-list) - More basic todo list app.
 * [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) ⭐ 2 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-emoji-memory) - Memory game.
-* [Other Todo MVC](https://github.com/shapkarin/imba-todo) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2019-08-07 - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) ⭐ 28,953 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-06 rules.
+* [Other Todo MVC](https://github.com/shapkarin/imba-todo) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2019-08-07 - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) ⭐ 28,951 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-06 rules.
 * [Calculator](https://github.com/taw/imba-calculator) ⭐ 1 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-calculator)  - Calculator.
 * [Quote Machine](https://github.com/taw/imba-quote-machine) ⭐ 1 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 * [ROT-N](https://github.com/taw/imba-rotn) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-14 - [view online](https://taw.github.io/imba-rotn) - ROT-N app.
@@ -135,7 +135,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,087 | 🐛 90 | 🌐 MDX | 📅 2026-08-12 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,087 | 🐛 91 | 🌐 MDX | 📅 2026-08-13 specification. Contributions of any kind welcome!
 
 ## License
 
