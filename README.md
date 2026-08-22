@@ -32,7 +32,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 * [Website](https://imba.io)
 * [Docs](https://imba.io/docs)
 * [Gitter](https://gitter.im/somebee/imba)
-* [GitHub Repo](https://github.com/imba/imba) ⭐ 6,506 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-17
+* [GitHub Repo](https://github.com/imba/imba) ⭐ 6,505 | 🐛 178 | 🌐 JavaScript | 📅 2026-08-17
 * [GitHub Organization](https://github.com/imba)
 
 #### Toolkits and Frameworks
@@ -99,7 +99,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 * [Weather App](https://github.com/taw/imba-weather) ⭐ 3 | 🐛 0 | 🌐 Imba | 📅 2026-02-11 - [view online](https://taw.github.io/imba-weather) - Weather app.
 * [Simple Todo](https://github.com/taw/imba-todo-list) ⭐ 2 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-todo-list) - More basic todo list app.
 * [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) ⭐ 2 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-emoji-memory) - Memory game.
-* [Other Todo MVC](https://github.com/shapkarin/imba-todo) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2019-08-07 - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) ⭐ 28,948 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 rules.
+* [Other Todo MVC](https://github.com/shapkarin/imba-todo) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2019-08-07 - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) ⭐ 28,949 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 rules.
 * [Calculator](https://github.com/taw/imba-calculator) ⭐ 1 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-calculator)  - Calculator.
 * [Quote Machine](https://github.com/taw/imba-quote-machine) ⭐ 1 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 * [ROT-N](https://github.com/taw/imba-rotn) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-14 - [view online](https://taw.github.io/imba-rotn) - ROT-N app.
@@ -135,7 +135,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,091 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,092 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -145,4 +145,4 @@ See [LICENSE.md](LICENSE.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
