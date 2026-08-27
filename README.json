@@ -581,9 +581,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:33:05.053Z",
-    "original_repository": "koolamusic/awesome-imba",
-    "original_repository_id": 158691375,
+    "last_updated": "2026-08-27T11:45:33.988Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 158691375,
+      "language": null,
+      "last_commit": "2021-10-18T21:18:46Z",
+      "owner": "koolamusic",
+      "repo": "awesome-imba",
+      "stars": 139
+    },
     "original_repository_sha": "21b9372a44255dc5cb4b9aa4cec53ed521dc83b4",
     "enhanced_repository": "enhansome/enhansome-imba",
     "enhanced_repository_description": null,
