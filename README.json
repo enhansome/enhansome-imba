@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 20839462,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T10:45:48Z",
+                "last_commit": "2026-08-27T13:59:51Z",
                 "owner": "imba",
                 "repo": "imba",
                 "stars": 6504
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "imba",
                 "repo": "webpack-app-imba",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "athif23",
                 "repo": "start-imba",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "somebee",
                 "repo": "imba-router",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "nathanjohnson320",
                 "repo": "material-imba",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "donaldp",
                 "repo": "imba-shell",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "somebee",
                 "repo": "uxa",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "haikyuu",
                 "repo": "imba-inertia-adapter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "imba",
                 "repo": "parcel-plugin-imba",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "somebee",
                 "repo": "sublime-imba",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "somebee",
                 "repo": "vscode-imba",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "somebee",
                 "repo": "language-imba",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -219,7 +231,8 @@
                 "owner": "jiggneshhgohel",
                 "repo": "hello-world-imba-tutorial",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -247,7 +260,8 @@
                 "owner": "konsumer",
                 "repo": "html2imba",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -262,7 +276,8 @@
                 "owner": "taw",
                 "repo": "imba-regexp-explorer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -277,7 +292,8 @@
                 "owner": "taw",
                 "repo": "imba-json-beautifier",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "taw",
                 "repo": "imba-monoalphabetic",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -314,7 +331,8 @@
                 "owner": "somebee",
                 "repo": "todomvc-imba",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -329,7 +347,8 @@
                 "owner": "haikyuu",
                 "repo": "perfect-stack",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "cartonalexandre",
                 "repo": "imba-realworld-example-app",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "SamirHodzic",
                 "repo": "imba-capacitor-hn",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "taw",
                 "repo": "imba-2048",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -389,7 +411,8 @@
                 "owner": "taw",
                 "repo": "imba-game-of-life",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "CassianoSF",
                 "repo": "imba-top-down-shooter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -419,7 +443,8 @@
                 "owner": "taw",
                 "repo": "imba-eyes",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "taw",
                 "repo": "imba-fifteen",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -449,7 +475,8 @@
                 "owner": "taw",
                 "repo": "imba-matrix-rain",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "taw",
                 "repo": "imba-snake",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -479,7 +507,8 @@
                 "owner": "taw",
                 "repo": "imba-weather",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -494,7 +523,8 @@
                 "owner": "taw",
                 "repo": "imba-todo-list",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "taw",
                 "repo": "imba-emoji-memory",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -524,7 +555,8 @@
                 "owner": "shapkarin",
                 "repo": "imba-todo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -539,7 +571,8 @@
                 "owner": "taw",
                 "repo": "imba-calculator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -554,7 +587,8 @@
                 "owner": "taw",
                 "repo": "imba-quote-machine",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             },
             {
               "node_type": "item",
@@ -569,7 +603,8 @@
                 "owner": "taw",
                 "repo": "imba-rotn",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:19:51.380Z"
             }
           ],
           "description": null,
@@ -581,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:33.988Z",
+    "last_updated": "2026-08-28T06:19:51.380Z",
     "original_repository_info": {
       "archived": false,
       "id": 158691375,
