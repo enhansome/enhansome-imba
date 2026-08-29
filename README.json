@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐤 The friendly full-stack language",
+                "homepage": "https://imba.io",
                 "id": 20839462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:59:51Z",
+                "open_issues": 178,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6504
+                "stars": 6504,
+                "topics": [
+                  "declarative",
+                  "dom",
+                  "framework",
+                  "frontend",
+                  "imba",
+                  "javascript",
+                  "programming-language",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -35,12 +49,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Imba 2 + Webpack App Starter ",
+                "homepage": "https://hello-world-imba.netlify.com",
                 "id": 40813943,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T22:05:01Z",
+                "open_issues": 21,
                 "owner": "imba",
                 "repo": "webpack-app-imba",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -51,12 +70,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A generator to create new imba project faster.",
+                "homepage": null,
                 "id": 160759265,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-15T20:07:58Z",
+                "open_issues": 40,
                 "owner": "athif23",
                 "repo": "start-imba",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "gluegun",
+                  "imba",
+                  "imba-cli",
+                  "parcel",
+                  "start-imba",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -67,12 +98,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental router for Imba",
+                "homepage": null,
                 "id": 122295040,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T15:37:27Z",
+                "open_issues": 14,
                 "owner": "somebee",
                 "repo": "imba-router",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -83,12 +119,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Material design components in imba",
+                "homepage": null,
                 "id": 140902761,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-26T13:49:53Z",
+                "open_issues": 1,
                 "owner": "nathanjohnson320",
                 "repo": "material-imba",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -99,12 +140,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive debugger, REPL and runtime for Imba, inspired by PsySH.",
+                "homepage": null,
                 "id": 418653152,
                 "language": "Imba",
+                "license": "MIT",
                 "last_commit": "2025-04-20T14:43:21Z",
+                "open_issues": 1,
                 "owner": "donaldp",
                 "repo": "imba-shell",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "debugger",
+                  "imba",
+                  "repl",
+                  "runtime",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -115,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental framework for Imba",
+                "homepage": null,
                 "id": 101305638,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T18:19:43Z",
+                "open_issues": 8,
                 "owner": "somebee",
                 "repo": "uxa",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -131,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inertia adapter for Imba.",
+                "homepage": null,
                 "id": 398631729,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-30T09:30:10Z",
+                "open_issues": 6,
                 "owner": "haikyuu",
                 "repo": "imba-inertia-adapter",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -147,12 +209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 144597732,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-12-01T20:37:33Z",
+                "open_issues": 1,
                 "owner": "imba",
                 "repo": "parcel-plugin-imba",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -170,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime plugin for Imba",
+                "homepage": null,
                 "id": 31355869,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-03T11:59:23Z",
+                "open_issues": 5,
                 "owner": "somebee",
                 "repo": "sublime-imba",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -186,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Visual Studio Code Imba Plugin",
+                "homepage": null,
                 "id": 107386098,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-03T08:36:25Z",
+                "open_issues": 0,
                 "owner": "somebee",
                 "repo": "vscode-imba",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -202,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 46110827,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-10-19T17:01:22Z",
+                "open_issues": 0,
                 "owner": "somebee",
                 "repo": "language-imba",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -225,12 +307,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial for getting started with NodeJS, Imba, Webpack and ExpressJS/Webpack-Dev-Server, Webpack Loaders and Plugins",
+                "homepage": null,
                 "id": 174673780,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-03-09T10:04:05Z",
+                "open_issues": 0,
                 "owner": "jiggneshhgohel",
                 "repo": "hello-world-imba-tutorial",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "css-loader",
+                  "expressjs",
+                  "html-webpack-plugin",
+                  "imba",
+                  "mini-css-extract-plugin",
+                  "nodejs",
+                  "style-loader",
+                  "tutorial",
+                  "webpack-dev-server",
+                  "webpack4"
+                ]
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -254,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert HTML to Imba tags",
+                "homepage": null,
                 "id": 160027270,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-12-02T23:52:59Z",
+                "open_issues": 1,
                 "owner": "konsumer",
                 "repo": "html2imba",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -270,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imba RegExp Explorer",
+                "homepage": null,
                 "id": 158041165,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:35:08Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-regexp-explorer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -286,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON Beautifier with Imba and Cypress tests",
+                "homepage": null,
                 "id": 162360117,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-14T10:18:33Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-json-beautifier",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -302,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monoalphabetic Decoder in Imba",
+                "homepage": null,
                 "id": 163606163,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:44Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-monoalphabetic",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -325,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imba TodoMVC Example",
+                "homepage": "imba.io",
                 "id": 40595839,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-30T14:30:34Z",
+                "open_issues": 0,
                 "owner": "somebee",
                 "repo": "todomvc-imba",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -341,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of ping crm demo to Imba, node and edgedb using imba and node inertia adapters",
+                "homepage": null,
                 "id": 398770153,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2023-04-13T10:37:28Z",
+                "open_issues": 2,
                 "owner": "haikyuu",
                 "repo": "perfect-stack",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -357,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exemplary real world application built with Imba",
+                "homepage": "https://imba-realworld-example-app.netlify.com/",
                 "id": 162464665,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2024-07-06T21:43:11Z",
+                "open_issues": 0,
                 "owner": "cartonalexandre",
                 "repo": "imba-realworld-example-app",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -373,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstration of Imba & Capacitor used to build Hacker News clone",
+                "homepage": null,
                 "id": 159869427,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-12T20:59:21Z",
+                "open_issues": 0,
                 "owner": "SamirHodzic",
                 "repo": "imba-capacitor-hn",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -389,12 +527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2048 Game in Imba",
+                "homepage": null,
                 "id": 160073263,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:33:09Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-2048",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -405,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game of Life in Imba",
+                "homepage": null,
                 "id": 158038534,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:58Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-game-of-life",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -421,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 193925898,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-07-11T01:00:11Z",
+                "open_issues": 7,
                 "owner": "CassianoSF",
                 "repo": "imba-top-down-shooter",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -437,12 +590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eyes in Imba",
+                "homepage": null,
                 "id": 158876247,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T14:56:28Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-eyes",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -453,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fifteen Puzzle in Imba",
+                "homepage": null,
                 "id": 159993178,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:48Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-fifteen",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -469,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matrix Rain in Imba",
+                "homepage": null,
                 "id": 159996272,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:02Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-matrix-rain",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -485,12 +653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imda snake game",
+                "homepage": null,
                 "id": 157130290,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:33:59Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-snake",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -501,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weather App in Imba",
+                "homepage": null,
                 "id": 159989150,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-02-11T19:35:45Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-weather",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -517,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imba todo list",
+                "homepage": null,
                 "id": 157120741,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:35:02Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-todo-list",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -533,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emoji Memory game in Imba",
+                "homepage": null,
                 "id": 158987800,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:33:12Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-emoji-memory",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -549,12 +737,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC app with http://imba.io lang, for tastejs/todomvc repo: https://github.com/tastejs/todomvc",
+                "homepage": "https://shapkarin.github.io/imba-todo",
                 "id": 158305458,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2019-08-07T17:58:49Z",
+                "open_issues": 0,
                 "owner": "shapkarin",
                 "repo": "imba-todo",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "imba",
+                  "javascript",
+                  "todomvc"
+                ]
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -565,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Imba Calculator",
+                "homepage": null,
                 "id": 158927806,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:53Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-calculator",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -581,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quote Machine in Imba",
+                "homepage": null,
                 "id": 158877673,
                 "language": "Imba",
+                "license": null,
                 "last_commit": "2026-01-22T13:34:49Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-quote-machine",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             },
@@ -597,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROT-N in Imba",
+                "homepage": null,
                 "id": 163190293,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-14T10:18:30Z",
+                "open_issues": 0,
                 "owner": "taw",
                 "repo": "imba-rotn",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:19:51.380Z"
             }
@@ -616,15 +828,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:19:51.380Z",
+    "last_updated": "2026-08-29T03:51:35.090Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
+      "homepage": null,
       "id": 158691375,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2021-10-18T21:18:46Z",
+      "open_issues": 0,
       "owner": "koolamusic",
       "repo": "awesome-imba",
-      "stars": 139
+      "stars": 139,
+      "topics": [
+        "awesome",
+        "awesome-imba",
+        "awesome-list",
+        "awesomeness",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest2021",
+        "imba",
+        "javascript"
+      ]
     },
     "original_repository_sha": "21b9372a44255dc5cb4b9aa4cec53ed521dc83b4",
     "enhanced_repository": "enhansome/enhansome-imba",
