@@ -87,7 +87,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 
 * [Imba Todo MVC](https://github.com/somebee/todomvc-imba) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-30 -  Imba TodoMVC Example.
 * [Ping CRM](https://github.com/haikyuu/perfect-stack) ⭐ 22 | 🐛 2 | 🌐 Imba | 📅 2023-04-13 - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
-* [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Imba | 📅 2024-07-06 - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,168 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) ⭐ 16 | 🐛 0 | 🌐 Imba | 📅 2024-07-06 - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) ⭐ 84,167 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2022-02-12 - Demonstration of Imba & Capacitor used to build Hacker News clone.
 * [2048 Game](https://github.com/taw/imba-2048) ⭐ 7 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-2048) - 2048 Game.
 * [Game of Life](https://github.com/taw/imba-game-of-life) ⭐ 7 | 🐛 0 | 🌐 Imba | 📅 2026-01-22 - [view online](https://taw.github.io/imba-game-of-life) - Game of life.
@@ -135,7 +135,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,094 | 🐛 90 | 🌐 MDX | 📅 2026-08-27 specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,095 | 🐛 90 | 🌐 MDX | 📅 2026-08-27 specification. Contributions of any kind welcome!
 
 ## License
 
@@ -145,4 +145,4 @@ See [LICENSE.md](LICENSE.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
