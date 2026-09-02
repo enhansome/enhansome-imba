@@ -21,7 +21,7 @@
                 "open_issues": 178,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6505,
+                "stars": 6506,
                 "topics": [
                   "declarative",
                   "dom",
@@ -76,7 +76,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-15T20:07:58Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "athif23",
                 "repo": "start-imba",
                 "stars": 22,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:23:21.376Z",
+    "last_updated": "2026-09-02T00:31:01.647Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
