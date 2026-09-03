@@ -76,7 +76,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-15T20:07:58Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "athif23",
                 "repo": "start-imba",
                 "stars": 22,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:31:01.647Z",
+    "last_updated": "2026-09-03T00:38:06.936Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
