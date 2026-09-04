@@ -17,11 +17,11 @@
                 "id": 20839462,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T10:46:36Z",
-                "open_issues": 178,
+                "last_commit": "2026-09-03T11:36:01Z",
+                "open_issues": 166,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6506,
+                "stars": 6507,
                 "topics": [
                   "declarative",
                   "dom",
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:38:06.936Z",
+    "last_updated": "2026-09-04T00:22:59.694Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
