@@ -470,7 +470,7 @@
                 "language": "Imba",
                 "license": null,
                 "last_commit": "2023-04-13T10:37:28Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "haikyuu",
                 "repo": "perfect-stack",
                 "stars": 22,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:22:17.512Z",
+    "last_updated": "2026-09-21T00:29:09.468Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
