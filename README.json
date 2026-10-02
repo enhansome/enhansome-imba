@@ -243,7 +243,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2020-05-03T11:59:23Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "somebee",
                 "repo": "sublime-imba",
                 "stars": 15,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:32:48.112Z",
+    "last_updated": "2026-10-02T01:48:36.285Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
