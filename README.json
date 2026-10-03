@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repo",
-              "description": null,
+              "description": "imba/imba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:25:12.218Z",
+    "last_updated": "2026-10-03T04:49:51.133Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
