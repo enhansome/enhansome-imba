@@ -21,7 +21,7 @@
                 "open_issues": 167,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6511,
+                "stars": 6512,
                 "topics": [
                   "declarative",
                   "dom",
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:33:03.916Z",
+    "last_updated": "2026-10-10T01:54:29.356Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
