@@ -21,7 +21,7 @@
                 "open_issues": 165,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6511,
+                "stars": 6513,
                 "topics": [
                   "declarative",
                   "dom",
@@ -243,7 +243,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2020-05-03T11:59:23Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "somebee",
                 "repo": "sublime-imba",
                 "stars": 15,
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:36:41.962Z",
+    "last_updated": "2026-10-28T01:40:36.213Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
