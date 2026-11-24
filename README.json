@@ -21,7 +21,7 @@
                 "open_issues": 170,
                 "owner": "imba",
                 "repo": "imba",
-                "stars": 6514,
+                "stars": 6515,
                 "topics": [
                   "declarative",
                   "dom",
@@ -828,7 +828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:05:34.319Z",
+    "last_updated": "2026-11-24T06:22:35.631Z",
     "original_repository_info": {
       "archived": false,
       "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
@@ -837,7 +837,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2021-10-18T21:18:46Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "koolamusic",
       "repo": "awesome-imba",
       "stars": 139,
